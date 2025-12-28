@@ -7,6 +7,7 @@
 - Модули и Webpack
 1. [x] [modules](modules)
 - Платформы: браузер vs Node.js
+1. [x] [ajs](ajs)
 - Unit-тестирование
 1. [x] [functions](functions)
 1. [x] [matchers](matchers)
