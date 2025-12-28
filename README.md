@@ -2,12 +2,11 @@
 
 Важно: [Примеры кода из лекций](https://github.com/netology-code/ajs-code/tree/ajs8)
 
-1. Стандарты и рабочее окружение
-[x] [workspace](workspace)
-1. [x] [Модули и Webpack](modules)
+1. Стандарты и рабочее окружение [workspace](workspace)
+1. Модули и Webpack [modules](modules)
 1. [x] [Платформы: браузер vs Node.js](platforms)
 1. [x] [Unit-тестирование](test-ci)
-1. [x] [Классы и наследование](classes)
+1. Классы и наследование [classes](classes)
 1. [x] [Методы](methods)
 1. Object, Reflection и Proxy
 1. [x] [Object](for-in)
