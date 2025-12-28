@@ -9,7 +9,7 @@
 5. Классы и наследование
 1. [x] [classes](classes)
 1. [x] [Методы](methods)
-1. [-] Object, Reflection и Proxy
+1. [] Object, Reflection и Proxy
 1. [x] [Object](for-in)
 1. [x] [Destructuring](destructuring)
 1. [x] [Регулярные выражения](regex)
