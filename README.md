@@ -8,7 +8,7 @@
 1. [x] [Unit-тестирование](test-ci)
 1. [x] [Классы и наследование](classes)
 1. [x] [Методы](methods)
-Object, Reflection и Proxy
+_ Object, Reflection и Proxy
 1. [x] [Object](for-in)
 1. [x] [Destructuring](destructuring)
 1. [x] [Регулярные выражения](regex)
